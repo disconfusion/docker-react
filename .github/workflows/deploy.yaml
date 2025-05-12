@@ -24,7 +24,6 @@ jobs:
           application_name: frontend
           environment_name: Frontend-env
           existing_bucket_name: elasticbeanstalk-eu-west-3-177873417653
-          bucket_path: docker
           region: eu-west-3
           version_label: ${{ github.sha }}
           deployment_package: deploy.zip
