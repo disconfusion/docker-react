@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          dis-Learn React
+          Nuova feature che non fa nulla a parte questo  :)
         </a>
       </header>
     </div>
